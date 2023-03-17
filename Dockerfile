@@ -35,3 +35,4 @@ CMD export JAVA_OPTS="-javaagent:hdiv/hdiv-ee-agent.jar \
   -Dhdiv.console.token=04db250da579302ca273a958 \
   -Dhdiv.server.name=Testing-Docker \
   -Dhdiv.toolbar.enabled=true" && ./start.sh
+  
