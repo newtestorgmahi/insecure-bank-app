@@ -29,8 +29,4 @@ Open the application in > http://localhost:8080/insecure-bank
 - Username: john
 - Password: test
 
-test
-test
-testt
-fdgg
-fghfghhg
+Change1
