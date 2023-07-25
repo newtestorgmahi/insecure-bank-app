@@ -17,9 +17,9 @@ jobs:
           # To enable reachability scanning, add: --reachability
           # To enable npm/dotnet non-lock file scanning, add: --package-json / --dotnet-proj
         env:
-          AQUA_KEY: ${{ secrets.AQUA_KEY }}
-          AQUA_SECRET: ${{ secrets.AQUA_SECRET }}
-          GITHUB_TOKEN: ${{ github.token }}
+          AQUA_KEY: =zN63arg2VNLFYi9Bmbchfi
+          AQUA_SECRET: EwWgfYoAz5qe6DVmY4DwZpoOpEAJK9dHzOc
+          GITHUB_TOKEN: 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
           AQUA_URL: https://api.eu-1.supply-chain.cloud.aquasec.com
           CSPM_URL: https://eu-1.api.cloudsploit.com
           TRIVY_RUN_AS_PLUGIN: 'aqua'
